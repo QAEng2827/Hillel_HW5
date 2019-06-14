@@ -1,4 +1,4 @@
-package Hillel;
+package Hillel.task1_2;
 
 public class MyException extends Exception {
     private String exceptionMessage;
